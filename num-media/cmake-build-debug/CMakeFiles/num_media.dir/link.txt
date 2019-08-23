@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/num_media.dir/main.c.o  -o num_media 
